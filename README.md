@@ -1,0 +1,2 @@
+# HoverTrainer
+This is a tiny application for the purpose of practicing the "hovering glitch" of The Legend Of Zelda - A Link To The Past.  As of now this was only tested by myself with a PS4 Controller and I put no effort into other button-mappings yet.  It measures the frames that the dash button was released for, since the last press of the dash button and displays that accordingly with green/yellow/red boxes containing the number of frames the button was released for.
